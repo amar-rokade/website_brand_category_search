@@ -1,0 +1,12 @@
+{
+  "name": "website_detection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "amar-rokade",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "xlsx": "^0.18.5"
+  }
+}
