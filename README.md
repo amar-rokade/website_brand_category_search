@@ -8,7 +8,10 @@ programmatically determine whether a website falls into the categories: { SHOPIF
 > yarn or npm i
 
 - create .env file in working directory and add you values 
--- my test
+  - INTPUT_URL ( path/dir/inputfile.xlsx)
+  - OUTPUT_URL ( path/dir/outputfile.xlsx)
+  - BRAND_NAME (shopify,woocommerce,bigcommerce,magento)  separted by comma
+
 
 - run 
 > node index.js
